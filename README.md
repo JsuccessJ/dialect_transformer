@@ -3,7 +3,7 @@
 [Korean dialect-standard language translation using special token in KoBART ] 
 논문 링크 : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737538
 
-<dr>
+
 ![2024통신학회](https://github.com/user-attachments/assets/7f76ca2b-c981-4e1a-b3f7-99eebdaef72b)
 
 
