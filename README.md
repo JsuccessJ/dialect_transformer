@@ -5,7 +5,7 @@
 
 
 ![2024통신학회](https://github.com/user-attachments/assets/7f76ca2b-c981-4e1a-b3f7-99eebdaef72b)
-
+![아이디어 경진대회](https://drive.google.com/file/d/1gAMhgM3TRh5d3LVB3KIytlXItcHtwsHk/view)
 논문 드라이브 : https://drive.google.com/file/d/1S3Cxmu3qrOvO8ddgY0Xai4QPb1LnO30a/view?usp=sharing
 
 
