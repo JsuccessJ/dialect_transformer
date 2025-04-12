@@ -2,10 +2,10 @@
 2024년도 한국통신학회 동계종합학술발표회
 [Korean dialect-standard language translation using special token in KoBART ] 
 논문 링크 : https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11737538
-
+아이디어 경진대회 : https://drive.google.com/file/d/1gAMhgM3TRh5d3LVB3KIytlXItcHtwsHk/view
 
 ![2024통신학회](https://github.com/user-attachments/assets/7f76ca2b-c981-4e1a-b3f7-99eebdaef72b)
-![아이디어 경진대회](https://drive.google.com/file/d/1gAMhgM3TRh5d3LVB3KIytlXItcHtwsHk/view)
+
 논문 드라이브 : https://drive.google.com/file/d/1S3Cxmu3qrOvO8ddgY0Xai4QPb1LnO30a/view?usp=sharing
 
 
